@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - html
 
 website:
   title: "testsite_q"
@@ -19,5 +21,6 @@ format:
 editor: visual
 execute:
   echo: false
+
 
 

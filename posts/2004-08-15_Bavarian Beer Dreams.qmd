@@ -12,7 +12,7 @@ This site is not intended to be "my summer vacation" because you don't care abou
 
 ![Where's Yours, Hon?](/img/albums/hops/liters.jpg){width="328"}
 
-Originally this post was generated with a vintage web site generator. You can view the original here. [Orginal Web Site](html/germany.html)
+Originally this post was generated with a vintage web site generator. You can view the original here. [Orginal Web Site](/html/germany.html)
 
 # Where?
 
@@ -47,9 +47,7 @@ markers %>%
   
 ```
 
-# Hop Fields
-
-href="id1.html
+[Hop Fields](/html/id1.html)
 
 Family in the Hops Then (1929) and Now
 
