@@ -1,0 +1,16 @@
+---
+title: The New Artsteinmetz.com
+author: Art Steinmetz
+date: 2008-10-12
+---
+The purpose of artsteinmetz.com is to provide a spot for friends of our family to catch up (or not) with our doings at their convenience without suffering the ignominy of sitting in front of the Kodak Carousel projector to see slides of Niagara Falls when they stop by. Instead, they can go straight to the wine fridge.
+
+If I had a Kodak Carousel projector and I had slides of my trip to Niagara Falls when I was 12 in 1970, this is what you might be forced to see:
+<h4 class="mceTemp"><dl class="wp-caption alignnone" style="width: 362px;"> <dt class="wp-caption-dt"><a href="http://themaclellans.com/Maria_NiagaraFalls_1970.jpg"><img title="Maria_NiagaraFalls" src="http://themaclellans.com/Maria_NiagaraFalls_1970.jpg" alt="The Maclellans are a lovely family who did not give me permission to link this image" width="352" height="352" /></a></dt> <dd class="wp-caption-dd"> <address>The Maclellans are a lovely family who did not give me permission to link this image.  I could have swiped it but I linked to it because they probably will get excited to see some hits on their site, as I would.  This is what comes from allowing Google image search to find your stuff.</address> </dd> </dl></h4>
+It also gives me yet another time wasting hobby that I may have to make into a profession if the markets don't improve.  Since I may be the only visitor I make no claim that this will be updated frequently, or at all.  The novelty of having the site may wear off very quickly.
+
+I am in the process of converting the stuff on the old site into something viewable here.  You can see bits of it on the sidebar on the, er, side.
+
+I switched the site to a blog format for two reasons.  First I was tired of paying $25/month to Earthlink when I didn't use them for internet access.  I figured since I had to migrate the site anyway I would look at my options.  Second, I realized my infrequent adds to the site did lend themselves to a linear chronology which matches the blog model.  The ease of adding stuff via blog administration is way easier than hand-coding HTML, which I stink at anyway.  I use DreamHost to host the site and Wordpress as the blog software.
+
+Enjoy!

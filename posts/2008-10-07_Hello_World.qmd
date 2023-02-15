@@ -1,0 +1,6 @@
+---
+title: Hello World!
+author: Art Steinmetz
+date: 2008-10-07
+---
+We're working on it!

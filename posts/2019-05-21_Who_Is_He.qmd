@@ -1,0 +1,36 @@
+---
+title: Who Is He?
+author: Art Steinmetz
+date: 2019-05-21
+---
+<!-- wp:image {"id":278,"width":176,"height":176} -->
+<figure class="wp-block-image is-resized"><img src="/img/2019/05/headshot-casual-corrected-1024x1024.jpg" alt="" class="wp-image-278" width="176" height="176"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Art Steinmetz is a private investor located in New York City.  He is an avid amateur data scientist and is active in the R statistical programming language community.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Additionally, Art is passionate about advancing financial and mathematical literacy, which he believes are essential elements of the next generationâ€™s success. He is a current trustee and former chair of the Board of the <a href="https://momath.org/">National Museum of Mathematics (â€œMoMathâ€)</a>. In 2015, he was named â€œMan of the Yearâ€ by The <a href="https://www.ywcanyc.org/">YWCA of New York City </a>and, in 2017, he was given the â€œCorporate Trailblazerâ€ award by <a href="https://blackwomenofinfluence.com/">Black Women of Influence</a> for his efforts in promoting STEM education among girls and minorities.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Art was a David Rockefeller Fellow at the <a href="https://pfnyc.org/">Partnership for New York City</a> and later became a partner. He is a member of the <a href="https://www.econclubny.org/">Economic Club of New York</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Art is the former Chairman, CEO and President of OppenheimerFunds. After joining the firm in 1986, Art held a number of positions over his 33-year tenure, including analyst, portfolio manager and Chief Investment Officer. Art was named President in 2013, CEO in 2014, and in 2015, his role was further expanded to include Chairman of the firm with $250 billion under management.  He <a href="https://www.institutionalinvestor.com/article/b1d1qnc2nrdp9l/OppenheimerFunds-CEO-to-Leave-After-Invesco-Acquisition">stepped down</a> when the firm was folded into Invesco.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Throughout his career, Art has taken a key role in expanding and strengthening OppenheimerFundsâ€™ capabilities. In 1989, he created and launched one of the first multi-sector bond funds in the industry, Oppenheimer Global Strategic Income Fund, which he managed for 25 years until being named CEO. As the Fundâ€™s manager, Art was nominated for Morningstarâ€™s Fixed Income Manager of the Year in 2007. As the firmâ€™s Chief Investment Officer, Art led the effort to acquire SteelPath in 2012, offering innovative investments in energy infrastructure through Master Limited Partnerships, and also worked to deepen the firmâ€™s bond management strategies. In 2015, he led the acquisition of VTL Associatesâ€™ RevenueShares, bringing the firm into the Smart Beta space. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Art began his career as a derivatives analyst at PaineWebber (now UBS), and also served in the United States Air Force.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Art holds an M.B.A. in finance from <a href="https://www8.gsb.columbia.edu/">Columbia Business School</a> and graduated Phi Beta Kappa from<a href="https://denison.edu/"> Denison University</a> with a B.A. in Russian language and Slavic Studies.</p>
+<!-- /wp:paragraph -->

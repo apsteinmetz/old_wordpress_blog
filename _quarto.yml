@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "testsite_q"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - blog.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+execute:
+  echo: false
+
+

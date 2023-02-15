@@ -1,0 +1,41 @@
+<!DOCTYPE manifest>
+<manifest>
+ <files>
+  <file dest="classic.swf" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\classic.swf" />
+  <file dest="GalleryMaker.xml" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\GalleryMaker.xml" />
+  <file dest="gallerythumb.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\gallerythumb.jpg" />
+  <file dest="index.html" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\index.html" />
+  <file dest="manifest.xml" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\manifest.xml" />
+  <file dest="resources\groups\group.xml" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\groups\group.xml" />
+  <file dest="resources\media\classic\medium\CIMG4363.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4363.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4504.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4504.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4558.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4558.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4561.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4561.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4564.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4564.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4566.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4566.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4568.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4568.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4578.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4578.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4590.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4590.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4596.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4596.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4597.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4597.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4605.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4605.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4606.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4606.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4609.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4609.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4610.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4610.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4628.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4628.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4630.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4630.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4631.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4631.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4634.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4634.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4638.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4638.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4654.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4654.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4655.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4655.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4657.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4657.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4668.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4668.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4670.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4670.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4672.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4672.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4677.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4677.jpg" />
+  <file dest="resources\media\classic\medium\CIMG4680.jpg" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\media\classic\medium\CIMG4680.jpg" />
+  <file dest="resources\styles\style.xml" src="C:\Documents and Settings\Art\Local Settings\Temp\Photo Galleries Temp\resources\styles\style.xml" />
+  <file dest="projectthumb.jpg" src="" />
+ </files>
+</manifest>

@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.269">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Art Steinmetz">
+<meta name="dcterms.date" content="2008-10-14">
+
+<title>testsite_q - Lies, Damn Lies And Charts</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">testsite_q</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html">
+ <span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../blog.html">
+ <span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html">
+ <span class="menu-text">About</span></a>
+  </li>  
+</ul>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Lies, Damn Lies And Charts</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Art Steinmetz </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">October 14, 2008</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+
+<p>[caption id=“” align=“alignleft” width=“251” caption=“Crowd Outside the NYSE after 1929 Crash”]<a href="http://upload.wikimedia.org/wikipedia/commons/e/e1/Crowd_outside_nyse.jpg"><img title="Crowd_outside_nyse" src="http://upload.wikimedia.org/wikipedia/commons/e/e1/Crowd_outside_nyse.jpg" alt="Crowd Outside the NYSE after 1929 Crash" width="251" height="349"></a>[/caption]</p>
+
+<!--[if gte mso 9]><xml> <w:WordDocument> <w:View>Normal</w:View> <w:Zoom>0</w:Zoom> <w:PunctuationKerning /> <w:ValidateAgainstSchemas /> <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid> <w:IgnoreMixedContent>false</w:IgnoreMixedContent> <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText> <w:Compatibility> <w:BreakWrappedTables /> <w:SnapToGridInCell /> <w:WrapTextWithPunct /> <w:UseAsianBreakRules /> <w:DontGrowAutofit /> </w:Compatibility> <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument> </xml><![endif]-->
+<!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState="false" LatentStyleCount="156"> </w:LatentStyles> </xml><![endif]-->
+<address style="text-align: center;">
+STOCKS CRASH THEN RALLY IN 8,246,740-SHARE DAY; MONEY GOES TO 20 PER CENT; MARKET SETS NEW RECORD
+</address>
+<address style="text-align: center;">
+Stocks Dumped as Loan Rate Mounts, Sending Wide List Down.
+</address>
+<address style="text-align: center;">
+BANKERS AID RECOVERY
+</address>
+<address style="text-align: center;">
+Heavy Buying Orders in Five Pivotal Securities Help Stem Tide in Last Hour,
+</address>
+<address style="text-align: center;">
+300 ISSUES AT YEAR’S LOW $13,874,000
+</address>
+<address style="text-align: center;">
+Bond Sales Also Biggest for 1929, With Many Declines.
+</address>
+<address style="text-align: center;">
+<ul>
+<li>The Events of the Day. <span> </span>-
+</li></ul></address>
+<address style="text-align: center;">
+<span> </span>- Credit Curb the Big Factor. <span> </span>-
+</address>
+<address style="text-align: center;">
+<ul>
+<li>Opening is Closely Watched. Tickers Fall Far Behind. -
+</li></ul></address>
+<address style="text-align: center;">
+<ul>
+<li>Rally Comes Unexpectedly. <span> </span>-
+</li></ul></address>
+<address style="text-align: center;">
+<ul>
+<li>Feature Is Tremendous Volume â€“
+</li></ul></address>
+<address style="text-align: center;">
+<ul>
+<li>Easier Credit Looked For. -
+</li></ul></address>
+<address style="text-align: center;">
+<ul>
+<li>1921 Situation Paralleled. -
+</li></ul></address>
+So said the New York times. Is this 1929 allover again? I don’t know but last week was sure scary. We can take some comfort from the fact the policy makers are trying to ease the crunch, not make it worse, as they did back then. This isn’t a post about that, though. This is a post about how some people are using charts to whip up fear. I was at the IMF meetings over the weekend and some of the speakers seemed to have a vested interest in making things worse. <a href="http://www.econ.yale.edu/~shiller/">Robert Shiller</a>, a Yale economist is famous for creating the <a href="http://www2.standardandpoors.com/portal/site/sp/en/us/page.topic/indices_csmahp/0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0.html">Case-Shiller home price index</a>, a widely used measure of the current housing crisis. He spoke on a panel and presented a chart overlaying stock prices from 1929 with stock prices now and suggested that Monday might be the “big one.” Here is what he showed:
+
+
+
+
+
+
+<p><a href="../img/2008/10/chartlies1.jpg"><img class="alignnone size-full wp-image-27" title="Chart Lies 1" src="../img/2008/10/chartlies1.jpg" alt="" width="436" height="294"></a></p>
+<p>Looks like we are sliding down the same precipice. We may be sliding down, but this chart shows absolutely nothing. In fact, it lies by committing the sin of using different scales for the two series. Here is what happens when we make the percentage range the same for the Dow then and now:</p>
+<p><a href="../img/2008/10/chartlies2.jpg"><img class="alignnone size-full wp-image-28" title="Chart Truth 1" src="../img/2008/10/chartlies2.jpg" alt="" width="430" height="311"></a></p>
+<p>So, while we haven’t had the same 1-day percentage fall we saw on Black Monday, the Dow is already down every bit as much, and more, as it was back then. Why would a Yale professor show something so misleading. To sell his books, I think. If Monday had been a puke then he could say “see!”</p>
+<p>Then the next speaker did the same damn thing! He showed a 100-year chart of the Dow.&nbsp; If you look at the chart below you might draw the inference that the last 15 years have been a crazy run-up for stocks and a reversion to the long-term trend would be catastrophic.</p>
+<p><a href="../img/2008/10/chartlies3.jpg"><img class="alignnone size-full wp-image-30" title="Chart Lies 2" src="../img/2008/10/chartlies3.jpg" alt="" width="500" height="336"></a></p>
+<p>Again, nonsense!&nbsp; You can’t show long term growth trends on a linear scale like this.&nbsp; That’s because the economy grows over time.&nbsp; There isn’t a “normal” level for stocks.&nbsp; There is a “normal” growth rate.&nbsp; To show this concept properly you need to use a logarithmic scale, a “log chart.”&nbsp; A proper depiction looks like this:</p>
+<p><a href="../img/2008/10/chartlies42.jpg"><img class="alignnone size-full wp-image-35" title="Chart Truth 2" src="../img/2008/10/chartlies42.jpg" alt="" width="499" height="407"></a></p>
+<p>Stocks look far less overvalued in this chart and the crash of 1929, which is invisible in the upper chart, is shown in it’s proper context vs.&nbsp;today.&nbsp; As of today, the ’29 crash looks far more cataclysmic.&nbsp; This chart is scary enough, though.&nbsp; A reversion to trend would take to Dow to 7000.&nbsp; This is a post about chart lies, not stock prognostication, though.</p>
+<p>Why would anybody show the linear-scale chart?&nbsp; Turning on a log scale is a a one-click operation in Excel.&nbsp; Is it too exotic?&nbsp; The audience was financial professionals.&nbsp; It’s just inexplicable.&nbsp; I am a fan of good data visualization and you should be too.</p>
+<p>BTW, It won’t surprise you to learn there is a cult of data graphic geeks out there.&nbsp; Their guru is another Yale professor, <a href="http://www.edwardtufte.com/tufte/" target="_blank">Edward Tufte</a>.&nbsp; Their arguments about the nuances of bar charts can resemble religious doctrinal disputes.</p>
+
+
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

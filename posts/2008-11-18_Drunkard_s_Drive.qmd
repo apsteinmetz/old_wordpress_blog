@@ -1,0 +1,11 @@
+---
+title: Drunkard's Drive
+author: Art Steinmetz
+date: 2008-11-18
+---
+"Drunkard's walk" is the metaphor used in Statistics to describe a random path or it could refer to a drunk guy walking around.  It could also refer to the Google Street View car.  For the uninformed, these are the cars that Google employs to drive around with GPS units and cameras mounted on top taking pictures up and down streets.  These images integrate with Google Maps to give you a street level view of any address you care to see.
+
+Anyway,  Street View makes the most sense in dense urban areas so I was shocked to see our house in semi-rural NJ show up. Why would Google use resources to cover our area?  Well, they probably didn't plan to.  This map shows the Street View coverage in blue.  It mostly makes sense. The covered areas show methodical mapping of every street as you get close to NYC.  Then there was the day the driver got lost.  <img class="alignnone size-full wp-image-122" title="street-view-weirdness" src="/img/2008/11/street-view-weirdness.jpg" alt="" width="451" height="445" />
+Yeah, the guy with loads of GPS technology on board goes off the map into unexplored territory.  Check out the ramble around Gladstone.  He doesn't go down the side streets in any regular way but he does go on some dirt roads!  Quite a joy ride.  He briefly goes on the highway again but gets wanderlust a couple exits later.  So that's how our house winds up on Street View.  I won't make it easy for the kidnappers by posting the link here but you know where to find it if you want.
+
+There has been lots of commentary about the social ra<a href="http://www.streetviewfun.com/category/best/" target="_blank"><img class="alignleft" src="http://www.streetviewfun.com/wp-content/uploads/2008/05/flashing.jpg" alt="" width="150" height="114" /></a>mifications of this technology. When you deploy dozens of vehicles randomly taking millions of pictures some interesting stuff is <a href="http://www.streetviewfun.com/category/best/" target="_blank">bound to show up.</a> Car crashes, houses on fire, people flashing the camera. You can see some events unfold in time as you move the map view up the street. Incredible. Maybe you can find where the wayward Google car stopped at a pub.  Are there security concerns? Privacy issues?  Yeah, well, get over it.
