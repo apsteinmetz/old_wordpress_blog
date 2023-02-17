@@ -9,7 +9,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - blog.qmd
+      - href: https://outsiderdata.blog
+        text: Data Science Blog
+      - href: blog.qmd
+        text: Old Personal Blog
       - about.qmd
 
 format:

@@ -8,13 +8,21 @@ execute:
 
 In August of 2004 we took a family vacation to my Mother's home turf of Bavaria. It was a chance for my kids to connect with their heritage and my Mom to reconnect. For me it was a chance to get up close and personal with my favorite beverage.
 
-This site is not intended to be "my summer vacation" because you don't care about that. It is my documentation of a small slice of Bavarian beer culture. It's a beer geek's photo album. This trip had an ambitious agenda where I tried to include something for everybody. Two nights in the Gasthof of the Ayinger Brewery was my special bit (Legoland and castles were for the kids). As it turned out I got a huge extra bonus when some long lost relatives invited us to their hop farm in the Hallertau to see the harvest! Use the links on the left for photos and click on any picture for a full size view.
+This site is not intended to be "my summer vacation" because you don't care about that. It is my documentation of a small slice of Bavarian beer culture. It's a beer geek's photo album. This trip had an ambitious agenda where I tried to include something for everybody. Two nights in the Gasthof of the Ayinger Brewery was my special bit (Legoland and castles were for the kids). As it turned out I got a huge extra bonus when some long lost relatives invited us to their hop farm in the Hallertau to see the harvest!
 
 ![Where's Yours, Hon?](/img/albums/hops/liters.jpg){width="328"}
 
-Originally this post was generated with a vintage web site generator. You can view the original here. [Orginal Web Site](/html/germany.html)
+The full photo album is here
 
-# Where?
+## [The First Web Site I Ever Created](/html/germany.html).
+
+::: callout-note
+## Trivia
+
+The beer site was created with a vintage (2005?) web site generator at the old Earthlink.com which took over the even older Pipeline.com, my first ISP, back in the 1990s. Pipeline was started by James Gleick, a New York Times science writer.
+:::
+
+## Where?
 
 Our trip centered around Munich. Geisenfeld is in the Hallertau, north of Munich, near the Danube. Aying is close enough to be a southeastern suburb of Munich but is a pastoral village.
 
@@ -27,10 +35,10 @@ library(leafpop)
 
 markers <- tribble(
   ~lat,~lng,~label,~image,
-  48.1351253, 11.5819805,"Munich","/img/albums/hops/meandbeer.jpg",
-  48.6933319, 11.6307161, "Geisenfeld Hop Farms","/img/albums/hops/hopfields1.jpg",
-  47.9700209, 11.7765993,"Ayinger Brewery","/img/albums/hops/brewery.jpg",
-  47.970758,  11.780792," Brauerei Gasthof Aying","/img/albums/hops/gasthof1.jpg"
+  48.1351253, 11.5819805,"Munich","/html/img/meandbeer.jpg",
+  48.6933319, 11.6307161, "Geisenfeld Hop Farms","/html/img/hopfields1.jpg",
+  47.9700209, 11.7765993,"Ayinger Brewery","/html/img/brewery.jpg",
+  47.970758,  11.780792," Brauerei Gasthof Aying","/html/img/gasthof1.jpg"
   
   )
   
@@ -46,29 +54,3 @@ markers %>%
 
   
 ```
-
-[Hop Fields](/html/id1.html)
-
-Family in the Hops Then (1929) and Now
-
-href="id9.html \# Hop Processing 1
-
-href="id3.html
-
-# Hop Processing 2
-
-href="id4.html"
-
-# Brauerigasthof Aying
-
-href="id5.html
-
-# Ayinger Brauerei 1
-
-href="id6.html"
-
-# Ayinger Brauerei 2
-
-href="id7.html"\>
-
-Links href="id8.html"

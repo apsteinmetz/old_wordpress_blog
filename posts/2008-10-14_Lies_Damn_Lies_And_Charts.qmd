@@ -3,30 +3,55 @@ title: Lies, Damn Lies And Charts
 author: Art Steinmetz
 date: 2008-10-14
 ---
-[caption id="" align="alignleft" width="251" caption="Crowd Outside the NYSE after 1929 Crash"]<a href="http://upload.wikimedia.org/wikipedia/commons/e/e1/Crowd_outside_nyse.jpg"><img title="Crowd_outside_nyse" src="http://upload.wikimedia.org/wikipedia/commons/e/e1/Crowd_outside_nyse.jpg" alt="Crowd Outside the NYSE after 1929 Crash" width="251" height="349" /></a>[/caption]
-
-<!--[if gte mso 9]><xml> <w:WordDocument> <w:View>Normal</w:View> <w:Zoom>0</w:Zoom> <w:PunctuationKerning /> <w:ValidateAgainstSchemas /> <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid> <w:IgnoreMixedContent>false</w:IgnoreMixedContent> <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText> <w:Compatibility> <w:BreakWrappedTables /> <w:SnapToGridInCell /> <w:WrapTextWithPunct /> <w:UseAsianBreakRules /> <w:DontGrowAutofit /> </w:Compatibility> <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument> </xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState="false" LatentStyleCount="156"> </w:LatentStyles> </xml><![endif]-->
-
-<address style="text-align: center;"> STOCKS CRASH THEN RALLY IN 8,246,740-SHARE DAY; MONEY GOES TO 20 PER CENT; MARKET SETS NEW RECORD</address> <address style="text-align: center;">Stocks Dumped as Loan Rate Mounts, Sending Wide List Down.</address> <address style="text-align: center;">BANKERS AID RECOVERY</address> <address style="text-align: center;">Heavy Buying Orders in Five Pivotal Securities Help Stem Tide in Last Hour,</address> <address style="text-align: center;">300 ISSUES AT YEAR'S LOW $13,874,000</address> <address style="text-align: center;">Bond Sales Also Biggest for 1929, With Many Declines.</address> <address style="text-align: center;">- The Events of the Day. <span> </span>-</address> <address style="text-align: center;"><span> </span>- Credit Curb the Big Factor. <span> </span>-</address> <address style="text-align: center;">- Opening is Closely Watched. Tickers Fall Far Behind. -</address> <address style="text-align: center;">- Rally Comes Unexpectedly. <span> </span>-</address> <address style="text-align: center;">- Feature Is Tremendous Volume â€“</address> <address style="text-align: center;">- Easier Credit Looked For. -</address> <address style="text-align: center;">- 1921 Situation Paralleled. -</address>So said the New York times.  Is this 1929 allover again?   I don't know but last week was sure scary.   We can take some comfort from the fact the policy makers are trying to ease the crunch, not make it worse, as they did back then.  This isn't a post about that, though.  This is a post about how some people are using charts to whip up fear.  I was at the IMF meetings over the weekend and some of the speakers seemed to have a vested interest in making things worse.  <a href="http://www.econ.yale.edu/~shiller/">Robert Shiller</a>, a Yale economist is famous for creating the <a href="http://www2.standardandpoors.com/portal/site/sp/en/us/page.topic/indices_csmahp/0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0.html">Case-Shiller home price index</a>, a widely used measure of the current housing crisis. He spoke on a panel and presented a chart overlaying stock prices from 1929 with stock prices now and suggested that Monday might be the "big one."  Here is what he showed:
-
-<a href="/img/2008/10/chartlies1.jpg"><img class="alignnone size-full wp-image-27" title="Chart Lies 1" src="/img/2008/10/chartlies1.jpg" alt="" width="436" height="294" /></a>
-
-Looks like we are sliding down the same precipice.  We may be sliding down, but this chart shows absolutely nothing.  In fact, it lies by committing the sin of using different scales for the two series. Here is what happens when we make the percentage range the same for the Dow then and now:
-
-<a href="/img/2008/10/chartlies2.jpg"><img class="alignnone size-full wp-image-28" title="Chart Truth 1" src="/img/2008/10/chartlies2.jpg" alt="" width="430" height="311" /></a>
-
-So, while we haven't had the same 1-day percentage fall we saw on Black Monday, the Dow is already down every bit as much, and more, as it was back then.   Why would a Yale professor show something so misleading.  To sell his books, I think.  If Monday had been a puke then he could say "see!"
-
-Then the next speaker did the same damn thing!  He showed a 100-year chart of the Dow.  If you look at the chart below you might draw the inference that the last 15 years have been a crazy run-up for stocks and a reversion to the long-term trend would be catastrophic.
-
-<a href="/img/2008/10/chartlies3.jpg"><img class="alignnone size-full wp-image-30" title="Chart Lies 2" src="/img/2008/10/chartlies3.jpg" alt="" width="500" height="336" /></a>
-
-Again, nonsense!  You can't show long term growth trends on a linear scale like this.  That's because the economy grows over time.  There isn't a "normal" level for stocks.  There is a "normal" growth rate.  To show this concept properly you need to use a logarithmic scale, a "log chart."  A proper depiction looks like this:
-
-<a href="/img/2008/10/chartlies42.jpg"><img class="alignnone size-full wp-image-35" title="Chart Truth 2" src="/img/2008/10/chartlies42.jpg" alt="" width="499" height="407" /></a>
-
-Stocks look far less overvalued in this chart and the crash of 1929, which is invisible in the upper chart, is shown in it's proper context vs. today.  As of today, the '29 crash looks far more cataclysmic.  This chart is scary enough, though.  A reversion to trend would take to Dow to 7000.  This is a post about chart lies, not stock prognostication, though.
-
-Why would anybody show the linear-scale chart?  Turning on a log scale is a a one-click operation in Excel.  Is it too exotic?  The audience was financial professionals.  It's just inexplicable.  I am a fan of good data visualization and you should be too.
-
-BTW, It won't surprise you to learn there is a cult of data graphic geeks out there.  Their guru is another Yale professor, <a href="http://www.edwardtufte.com/tufte/" target="_blank">Edward Tufte</a>.  Their arguments about the nuances of bar charts can resemble religious doctrinal disputes.
+
+**Crowd Outside the NYSE after 1929 Crash**
+
+<a href="http://upload.wikimedia.org/wikipedia/commons/e/e1/Crowd_outside_nyse.jpg"><img src="http://upload.wikimedia.org/wikipedia/commons/e/e1/Crowd_outside_nyse.jpg" title="Crowd_outside_nyse" alt="Crowd Outside the NYSE after 1929 Crash" width="251" height="349"/></a>
+
+> [**STOCKS CRASH THEN RALLY IN 8,246,740-SHARE DAY; MONEY GOES TO 20 PER CENT; MARKET SETS NEW RECORD**]{style="font-family: Times"}
+>
+> [**Stocks Dumped as Loan Rate Mounts, Sending Wide List Down.**]{style="font-family: Times"}
+>
+> [BANKERS AID RECOVERY]{style="font-family: Times"}
+>
+> [**Heavy Buying Orders in Five Pivotal Securities Help Stem Tide in Last Hour,**]{style="font-family: Times"}
+>
+> [300 ISSUES AT YEAR'S LOW \$13,874,000]{style="font-family: Times"}
+>
+> [**Bond Sales Also Biggest for 1929, With Many Declines.**]{style="font-family: Times"}
+>
+> [The Events of the Day: - *Credit Curb the Big Factor. - Opening is Closely Watched. Tickers Fall Far Behind. - Rally Comes Unexpectedly. - Feature Is Tremendous Volume. - Easier Credit Looked For. - 1921 Situation Paralleled.*]{style="font-family: Times"}
+
+So said the New York times. Is this 1929 all over again? I don't know but last week was sure scary. We can take some comfort from the fact the policy makers are trying to ease the crunch, not make it worse, as they did back then. This isn't a post about that, though. This is a post about how some people are using charts to whip up fear. I was at the IMF meetings over the weekend and some of the speakers seemed to have a vested interest in making things worse. [Robert Shiller](http://www.econ.yale.edu/~shiller), a Yale economist is famous for creating the [Case-Shiller home price index](https://fred.stlouisfed.org/graph/?g=ZPQb), a widely used measure of the current housing crisis. He spoke on a panel and presented a chart overlaying stock prices from 1929 with stock prices now and suggested that Monday might be the "big one." Here is what he showed:
+
+<a href="/img/2008/10/chartlies1.jpg"><img src="/img/2008/10/chartlies1.jpg" title="Chart Lies 1" class="alignnone size-full wp-image-27" width="436" height="294"/></a>
+
+Looks like we are sliding down the same precipice. We may be sliding down, but this chart shows absolutely nothing. In fact, it lies by committing **the sin of using different scales for the two series**. Here is what happens when we make the percentage range the same for the Dow then and now:
+
+<a href="/img/2008/10/chartlies2.jpg"><img src="/img/2008/10/chartlies2.jpg" title="Chart Truth 1" class="alignnone size-full wp-image-28" width="430" height="311"/></a>
+
+So, while we haven't had the same 1-day percentage fall we saw on Black Monday, the Dow is already down every bit as much, and more, as it was back then. Why would a Yale professor show something so misleading. To sell his books, I think. If Monday had been a puke then he could say "see!"[^1]
+
+[^1]: Update: Monday wasn't a crash. Stocks remained pretty stable for the next three months, before turning down again in February, 2009
+
+Then the next speaker did the **same damn thing!** He showed a 100-year chart of the Dow.  If you look at the chart below you might draw the inference that the last 15 years have been a crazy run-up for stocks and a reversion to the long-term trend would be catastrophic.
+
+<a href="/img/2008/10/chartlies3.jpg"><img src="/img/2008/10/chartlies3.jpg" title="Chart Lies 2" class="alignnone size-full wp-image-30" width="500" height="336"/></a>
+
+Again, nonsense!  You can't show long term growth trends on a linear scale like this.  That's because the economy grows over time.  There isn't a "normal" level for stocks.  There is a "normal" growth rate.  To show this concept properly you need to use a logarithmic scale, a "log chart."  A proper depiction looks like this:
+
+<a href="/img/2008/10/chartlies42.jpg"><img src="/img/2008/10/chartlies42.jpg" title="Chart Truth 2" class="alignnone size-full wp-image-35" width="499" height="407"/></a>
+
+Stocks look far less overvalued in this chart and the crash of 1929, which is invisible in the upper chart, is shown in it's proper context vs. today.  As of today, the '29 crash looks far more cataclysmic.  This chart is scary enough, though.  A reversion to trend would take to Dow to 7000.  This is a post about chart lies, not stock prognostication, though.[^2]
+
+[^2]: Update: The bottom for the Dow in the "Great Financial Crisis" of 2008/2009 was 6522 on March 9th, 2009, so a little below the log-scale long-term trend line.
+
+Why would anybody show the linear-scale chart?  Turning on a log scale is a a one-click operation in Excel.  Is it too exotic?  The audience was financial professionals.  It's just inexplicable.  I am a fan of good data visualization and you should be too.
+
+::: callout-note
+## Graphics for Geeks
+
+It won't surprise you to learn there is a cult of data graphic geeks out there.  Their guru is another Yale professor, <a href="http://www.edwardtufte.com/tufte/" target="_blank">Edward Tufte</a>.  Their arguments about the nuances of bar charts can resemble religious doctrinal disputes.
+
+Also check out [Junk Charts by Kaiser Fung](https://junkcharts.typepad.com/junk_charts/) for more data viz sins.
+:::
